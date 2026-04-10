@@ -115,8 +115,7 @@ Free to use / modify. No warranty.
 
 ---
 
-## 🤝 Credits 
+## 🤝 Credits and Inspiration
 Inspired by old VHS tape effects, PuppetCombo
 -  [![@GlaireDaggers|64](https://avatars.githubusercontent.com/u/8466762?s=64&v=4)](https://github.com/GlaireDaggers)[**GlaireDaggers** Hazel Stagner](https://github.com/GlaireDaggers)
 - [![@radiatoryang](https://avatars.githubusercontent.com/u/2285943?s=64&v=4)](https://github.com/radiatoryang)[**radiatoryang** Robert Yang](https://github.com/radiatoryang)
-- 
